@@ -1,4 +1,4 @@
-# Date:10.05.2025
+[# Date:10.05.2025
 # EX.NO-10-Develop an android application to create a option menu to display menu items using android studio
 
 ## AIM:
@@ -25,8 +25,8 @@ Step 7: Save and run the application.
 ## PROGRAM:
 ```
 Program to display animation operation”.
-Developed by: L.Mahesh Muthu
-Registeration Number : 212222040093
+Developed by: Magesh V
+Registeration Number : 212222040092
 ```
 
 ### activity_main.xml
@@ -134,3 +134,4 @@ public class MainActivity extends AppCompatActivity {
 
 ## RESULT:
 The application successfully displays an options menu with various items, and upon selecting any item, a toast message shows the selected item.
+](https://lms2.cse.saveetha.in/mod/assign/view.php)
